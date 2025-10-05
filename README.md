@@ -1,6 +1,10 @@
 # 🚀 ¡Tu Vendedor Virtual 24/7 en WhatsApp! 🤖💬
 
 
+<img width="1024" height="1024" alt="bot-de-ventas" src="https://github.com/user-attachments/assets/40e67c9b-b61a-4c21-b1ad-be04e7b225e2" />
+
+
+
 **Imagina nunca perder una venta porque no pudiste responder a tiempo...**
 
 ---
@@ -19,20 +23,11 @@
 
 ---
 
-## 💎 **Lo que TU CLIENTE experimenta:**
+## 💎 **Algunos Ejemplos **
+<img width="700" height="600" alt="image" src="https://github.com/user-attachments/assets/4a21fd6b-af53-4f15-8fa6-1866e5d49687" />
+<img width="700" height="600" alt="image" src="https://github.com/user-attachments/assets/b9d76e0e-6967-495e-be77-9e4616957f5c" />
+<img width="700" height="600" alt="image" src="https://github.com/user-attachments/assets/3cc617f9-a57c-4aa3-9d35-9ffd416d7b51" />
 
-```
-Cliente: "Hola, busco una RAM de 16GB"
-Bot: "¡Claro! Tengo 3 opciones perfectas para ti:
-      🎯 Kingston Fury 16GB - $45
-      ⚡ Corsair Vengeance 16GB - $52  
-      🔥 G.Skill Trident 16GB - $58
-      ¿Cuál te interesa?"
-
-Cliente: "La Kingston"
-Bot: "¡Excelente elección! ✅ Hay 15 en stock.
-     ¿Quieres que prepare tu pedido?"
-```
 
 **Así de NATURAL. Así de RÁPIDO.**
 
@@ -60,7 +55,7 @@ Bot: "¡Excelente elección! ✅ Hay 15 en stock.
 
 ---
 
-## ⚡ **Instalación Express (Menos de 5 minutos):**
+## ⚡ **Instalación (Menos de 5 minutos):**
 
 ```bash
 # 1️⃣ Descarga (un comando)
@@ -97,17 +92,6 @@ npm run dev
 - 🔐 **Sesión Persistente** - Escanea QR solo UNA vez
 
 ---
-
-## 🎬 **Ver para creer:**
-
-```javascript
-// El bot ejecuta ACCIONES reales, no solo responde:
-- buscar_producto("memoria RAM")    → 🔍 Busca en tu inventario
-- ver_catalogo()                    → 📋 Muestra TODO tu stock
-- registrar_cliente(datos)          → 💾 Guarda en Google Sheets
-- crear_pedido(items)               → 🧾 Genera factura automática
-```
-
 
 ## 🚨 **ÚLTIMA ADVERTENCIA:**
 
