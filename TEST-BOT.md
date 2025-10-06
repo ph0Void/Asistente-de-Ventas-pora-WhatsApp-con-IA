@@ -1,5 +1,4 @@
-# PREGUNTAS FRECUENTES SOBRE EL BOT DE PRUEBAS
-
+# PREGUNTAS PARA PROBAR AL BOT
 
 ### 🧩 **Caso 1: Cliente curioso que explora el catálogo**
 1. `Hola, ¿qué productos tienen disponibles?`  
